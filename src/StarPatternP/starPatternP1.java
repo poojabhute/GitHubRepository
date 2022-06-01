@@ -1,5 +1,9 @@
 package StarPatternP;
 
-public class starPatternP1 {
-
+public class starPatternP1 
+{
+public static void main(String[] args)
+{
+	System.out.println("hi");
+}
 }
